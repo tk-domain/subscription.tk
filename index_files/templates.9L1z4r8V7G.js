@@ -1,0 +1,1 @@
+Searchanise=window.Searchanise||{};Searchanise.templates={Platform:'shopify',AutocompleteShowBrand:'N',AutocompleteShowListPrice:'N',ResultsShow:'Y',ResultsStyle:'RESULTS_MODERN',ResultsItemCount:16,ResultsShowActionButton:'N',ResultsShowListPrice:'N',CustomCSS:'#search-results div.grid div.grid__item {    left: 0;    width: 100%;}'}
